@@ -108,3 +108,4 @@ public class FooConfiguration {
 注意:Prior to the Spring Cloud Dalston release, if Hystrix was on the classpath Feign would have wrapped all methods in a circuit breaker by default. This default behavior was changed in Spring Cloud Dalston in favor for an opt-in approach.
 
 
+## 7.5 Feign Hystrix Fallbacks
